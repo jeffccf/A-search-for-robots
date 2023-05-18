@@ -1,4 +1,4 @@
-# A-search-for-robots
+# A*-search-for-robots
 
 Imagine in a 2-D space, starting from the starting point, the robot has to avoid the obstacles (which are rectangles) and reach the goal point.
 A* search is implemented which the heuristic value is defined as the distance between the point and the goal.
